@@ -5,7 +5,7 @@ Things to do before running the app:<br>
 <ul>
 <li>1. Open credentials.txt</li>
 <li>2. Change placeholder texts with your own credentials</li>
-<li>NOTE: Do not put spaces in between the equal signs</li>
+NOTE: Do not put spaces between the equal signs.
 <li>3. Run auto_login.exe</li>
 <li>4. Enjoy!</li>
 <ul>
